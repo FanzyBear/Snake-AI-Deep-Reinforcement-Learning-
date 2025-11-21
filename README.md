@@ -2,6 +2,10 @@
 
 An intelligent agent that learns to play the classic Snake game using Deep Q-Learning (DQN), a reinforcement learning algorithm that combines Q-Learning with deep neural networks.
 
+
+https://github.com/user-attachments/assets/f7385d80-58d8-4898-b85d-e7637bdcf64a
+
+
 ##  Features
 
 - **Deep Q-Network (DQN)** implementation using PyTorch
