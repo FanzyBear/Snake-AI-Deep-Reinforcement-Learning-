@@ -35,4 +35,4 @@ The agent successfully learns to:
 - Strategically collect food to maximize score
 - Achieve consistent high performance through training
 
-(Intelligence system course project)
+(Intelligence system course project October 2024)
