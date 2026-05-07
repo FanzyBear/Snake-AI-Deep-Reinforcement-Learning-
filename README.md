@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/f7385d80-58d8-4898-b85d-e7637bdcf64a
 
 The agent successfully learns to:
 - Navigate the game environment efficiently
-- Avoid collisions with walls and itself
+- Minimize collisions with walls and itself
 - Strategically collect food to maximize score
 - Achieve consistent high performance through training
 
